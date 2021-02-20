@@ -1,0 +1,32 @@
+.bg{
+    background-color: beige;
+}
+.custom-button{
+    background-color:#F06C4E ;
+}
+.search-customWidth{
+    width: 600px;
+    margin: auto;
+}
+#meal-info{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-row-gap: 20px;
+    grid-column-gap: 50px;
+}
+.customDesign img{
+    width: 400px;
+}
+.custom-card{
+    box-shadow: 10px 10px 5px #aaaaaa;
+    height: 460px;
+    width: 400px;
+}
+h4{
+    margin-top: 7px;
+    font-size: 20px;
+    margin-right: 40px;
+}
+.meal-ingredients{
+    text-align: center;
+}
